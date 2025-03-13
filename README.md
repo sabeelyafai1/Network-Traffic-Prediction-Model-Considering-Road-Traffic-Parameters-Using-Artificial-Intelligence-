@@ -1,0 +1,2 @@
+# Network-Traffic-Prediction-Model-Considering-Road-Traffic-Parameters-Using-Artificial-Intelligence-
+We determine a model for deciding organizing sell goods this district review by attractive a examine the determinants that can cause roadway traffic. The throwed model uses a Random Forest-Gated Recurrent Unit-Network Traffic Prediction forecast (RF-GRU-NTP) to expect network traffic stream happen traffic and organization traffic into report. 
